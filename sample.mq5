@@ -56,7 +56,7 @@ bool check_highest (int input_bar, int count)  //input bar and how many total ca
    double Open    = mt4.Open(input_bar);
    double Close   = mt4.Close(input_bar);
    double High    = mt4.High(input_bar);
-   double Low   = mt4.Low(input_bar);
+   double Low     = mt4.Low(input_bar);
    
    //example function
    
