@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
 //|                                                OLD MT4 CLASS.mqh |
-//|                                                          BELIBAO |
-//|                                          https://www.belibao.com |
+//|                                                     MONEYROLLING |
+//|                                      http://www.moneyrolling.top |
 //+------------------------------------------------------------------+
-#property copyright "BELIBAO"
-#property link      "https://www.belibao.com"
+#property copyright "MONEYROLLING"
+#property link      "https://www.moneyrolling.top"
 //+------------------------------------------------------------------+
 //| CLASS DECLARATION                                                |
 //+------------------------------------------------------------------+
